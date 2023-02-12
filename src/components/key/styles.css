@@ -1,0 +1,22 @@
+.key {
+    border-radius: 5px;
+    cursor: pointer;
+    display: grid;
+    place-content: center;
+}
+
+.empty {
+    background-color: rgba(147, 155, 159, 0.3);
+    transition: background-color 0.5s;
+}
+
+.includesLetter {
+    background-color: #ceb02c;
+}
+.assertedLetter {
+    background-color: #66a060;
+}
+
+.empty:hover {
+    background-color: rgba(147, 155, 159, 0.5);
+}
