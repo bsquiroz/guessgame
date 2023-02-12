@@ -19,6 +19,7 @@ export const Board = () => {
                     </div>
                 );
             })}
+            <h3 style={{ textAlign: "center" }}>Adivina las 5 palabras</h3>
         </div>
     );
 };
