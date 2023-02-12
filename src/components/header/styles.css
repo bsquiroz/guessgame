@@ -37,11 +37,11 @@
 }
 
 .themeDay {
-    background-image: url("day.png");
+    background-image: url("../day.png");
 }
 
 .themeNight {
-    background-image: url("night.png");
+    background-image: url("../night.png");
 }
 
 .ball {
