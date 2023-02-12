@@ -161,3 +161,9 @@
     grid-column: 27/32;
     grid-row: 3/4;
 }
+
+@media (max-width: 700px) {
+    .keyboard {
+        padding: 0.8rem;
+    }
+}
